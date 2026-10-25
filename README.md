@@ -434,6 +434,9 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://alorsondansevideo.com" target="_blank">Alors On Danse Video Maker</a> - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
 - <a href="https://badtimesai.dev" target="_blank">Bad Times AI</a> - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
 - <a href="https://ifoundyouinthecrowdai.com" target="_blank">I Found You in the Crowd AI</a> - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- <a href="https://kdafirestarterai.dev" target="_blank">KDA Firestarter AI Dance</a> - Independent unofficial AI: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA
+- <a href="https://a2oliteai.org" target="_blank">A2O LITE NEON AI Dance</a> - Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99). Unofficial
+- <a href="https://dimedimebabyai.dev" target="_blank">dime dime baby ai</a> - Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99)
 - <a href="https://www.descript.com/" target="_blank">Descript</a> - AI-powered video and podcast editing platform with automatic transcription, text-based editing, screen recording, and AI voice cloning; edit video like editing a document
 - <a href="https://www.loom.com/" target="_blank">Loom</a> - One-click screen recording and sharing with AI video enhancement, text editing, and cross-platform collaboration features
 - <a href="https://hailuoai.video" target="_blank">Hailuo AI Video Generator</a> - AI video and image generation platform built on MiniMax's Hailuo models, turning text prompts into short videos and images.
