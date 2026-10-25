@@ -431,6 +431,9 @@ Model selection starts with [general-purpose LLM capabilities and evaluation tra
 - <a href="https://www.synthesia.io/" target="_blank">Synthesia</a> - AI video generation platform creating professional videos with AI avatars and multilingual support
 - <a href="https://www.heygen.com" target="_blank">HeyGen</a> - AI video platform that generates videos from text using photorealistic avatars, with multilingual translation, dubbing and lip-sync.
 - <a href="https://grokvideogenerator.dev" target="_blank">GrokVideo Studio</a> - Independent text/image-to-video app using the Grok Imagine API (not affiliated with xAI or X); free trial credits.
+- <a href="https://alorsondansevideo.com" target="_blank">Alors On Danse Video Maker</a> - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- <a href="https://badtimesai.dev" target="_blank">Bad Times AI</a> - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- <a href="https://ifoundyouinthecrowdai.com" target="_blank">I Found You in the Crowd AI</a> - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
 - <a href="https://www.descript.com/" target="_blank">Descript</a> - AI-powered video and podcast editing platform with automatic transcription, text-based editing, screen recording, and AI voice cloning; edit video like editing a document
 - <a href="https://www.loom.com/" target="_blank">Loom</a> - One-click screen recording and sharing with AI video enhancement, text editing, and cross-platform collaboration features
 - <a href="https://hailuoai.video" target="_blank">Hailuo AI Video Generator</a> - AI video and image generation platform built on MiniMax's Hailuo models, turning text prompts into short videos and images.
